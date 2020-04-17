@@ -1,6 +1,6 @@
-package ru.petrovich.i_am_rich
+package com.example.i_am_rich
 
-import androidx.annotation.NonNull;
+import android.support.annotation.NonNull;
 import io.flutter.embedding.android.FlutterActivity
 import io.flutter.embedding.engine.FlutterEngine
 import io.flutter.plugins.GeneratedPluginRegistrant

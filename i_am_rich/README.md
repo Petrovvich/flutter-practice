@@ -1,6 +1,6 @@
 # i_am_rich
 
-Flutter bootcamp practice
+A Flutter Bootcamp practice project
 
 ## Getting Started
 
