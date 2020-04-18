@@ -37,7 +37,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "ru.petrovich.quizzler_app"
+        applicationId "ru.petrovich.destiny_app"
         minSdkVersion 16
         targetSdkVersion 28
         versionCode flutterVersionCode.toInteger()
