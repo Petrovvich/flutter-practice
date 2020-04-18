@@ -34,7 +34,7 @@ class _IAmPoorAppState extends State<IAmPoorApp> {
             onPressed: () => Navigator.pushNamed(context, '/challenge'),
             child: Text(
               'Go to challenge',
-              style: TextStyle(color: Colors.blue),
+              style: TextStyle(color: Colors.black),
             ),
           )
         ],
