@@ -37,7 +37,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "ru.petrovich.bmi_calculator"
+        applicationId "ru.petrovich.clima"
         minSdkVersion 16
         targetSdkVersion 28
         versionCode flutterVersionCode.toInteger()
