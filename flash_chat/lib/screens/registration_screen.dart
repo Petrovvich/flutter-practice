@@ -28,11 +28,13 @@ class _RegistrationScreenState extends State<RegistrationScreen> {
             mainAxisAlignment: MainAxisAlignment.center,
             crossAxisAlignment: CrossAxisAlignment.stretch,
             children: <Widget>[
-              Hero(
-                tag: 'logo',
-                child: Container(
-                  height: 200.0,
-                  child: Image.asset('assets/images/logo.png'),
+              Flexible(
+                child: Hero(
+                  tag: 'logo',
+                  child: Container(
+                    height: 200.0,
+                    child: Image.asset('assets/images/logo.png'),
+                  ),
                 ),
               ),
               SizedBox(
@@ -73,7 +75,7 @@ class _RegistrationScreenState extends State<RegistrationScreen> {
                   });
                   try {
                     final user = await _auth.createUserWithEmailAndPassword(
-                        email: email, password: password);
+                        email: email.trim(), password: password);
                     if (user != null) {
                       Navigator.pushNamed(context, 'chat_screen');
                     }
