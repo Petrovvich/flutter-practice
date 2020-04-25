@@ -12,6 +12,6 @@ A simple app with small functionality for getting cryptocurrency course in many 
 
 Example UI:
 
-![Bitcoin ticker](https://github.com/Petrovvich/flutter-practice/master/images/bitcoin_ticker.png)
+![Bitcoin ticker](https://github.com/Petrovvich/flutter-practice/blob/master/images/bitcoin_ticker.png)
 
 ## BMI calculator <a name="bmiCalculator"></a>
