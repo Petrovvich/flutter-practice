@@ -12,6 +12,6 @@ A simple app with small functionality for getting cryptocurrency course in many 
 
 Example UI:
 
-<img src="images/bitcoin_ticker.png" alt="Bitcoin ticker" title="UI example" width="108" height="216" /> 
+<img src="images/bitcoin_ticker.png" alt="Bitcoin ticker" title="UI example" width="324" height="648" /> 
 
 ## BMI calculator <a name="bmiCalculator"></a>
