@@ -7,6 +7,8 @@ This repository contains training projects completed during the course
 1. [Bitcoin ticker](#bTicker)
 1. [BMI calculator](#bmiCalculator)
 1. [Decision app](#decision)
+1. [Dicee](#dicee)
+1. [Flash chat](#flash)
 
 ## [Bitcoin ticker](#toc) <a name="bTicker"></a>
 A simple app with small functionality for getting cryptocurrency course in many currencies pairs
@@ -20,11 +22,25 @@ Simple BMI calculator
 
 Example UI:
 
-<img src="images/gifs/bmi.gif" alt="BMI calculato" title="UI example" width="324" height="648" />
+<img src="images/gifs/bmi.gif" alt="BMI calculator" title="UI example" width="324" height="648" />
 
-## [Decision app](#toc) <a name="#decision"></a>
+## [Decision app](#toc) <a name="decision"></a>
 Simple decision making app
 
 Example UI:
 
 <img src="images/gifs/decision.gif" alt="Decision" title="UI example" width="324" height="648" />
+
+## [Dicee](#toc) <a name="dicee"></a>
+The dice simple app
+
+Example UI:
+
+<img src="images/gifs/dicee.gif" alt="Decision" title="UI example" width="324" height="648" />
+
+## [Flash chat](#toc) <a name="flash"></a>
+Chat based on firebase auth and cloud storage
+
+Example UI:
+
+<img src="images/gifs/flash.gif" alt="Decision" title="UI example" width="324" height="648" />
