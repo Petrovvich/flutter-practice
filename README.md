@@ -43,4 +43,4 @@ Chat based on firebase auth and cloud storage
 
 Example UI:
 
-<img src="images/gifs/flash.gif" alt="Decision" title="UI example" width="324" height="648" />
+<img src="images/gifs/chat.gif" alt="Decision" title="UI example" width="324" height="648" />
